@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "讓老闆嚇一跳, Avatarify + Remote GPU 實裝",
-            "content": "from fastai.vision.all import * . pd . &lt;module &#39;pandas&#39; from &#39;/opt/conda/envs/fastai/lib/python3.8/site-packages/pandas/__init__.py&#39;&gt; .",
+            "content": "Avatarify 是一個國外小哥為了鬧老闆做的惡作劇產品？笑 . from fastai.vision.all import * . pd . &lt;module &#39;pandas&#39; from &#39;/opt/conda/envs/fastai/lib/python3.8/site-packages/pandas/__init__.py&#39;&gt; .",
             "url": "https://jimmywang92.github.io/fastai_blog/jupyter/2021/01/29/avatarify.html",
             "relUrl": "/jupyter/2021/01/29/avatarify.html",
             "date": " • Jan 29, 2021"

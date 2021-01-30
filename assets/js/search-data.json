@@ -2,11 +2,11 @@
   
     
         "post0": {
-            "title": "Test Blog Post",
-            "content": "",
-            "url": "https://jimmywang92.github.io/fastai_blog/jupyter/2020/12/29/Untitled.html",
-            "relUrl": "/jupyter/2020/12/29/Untitled.html",
-            "date": " • Dec 29, 2020"
+            "title": "讓老闆嚇一跳, Avatarify + Remote GPU 實裝",
+            "content": "from fastai.vision.all import * . pd . &lt;module &#39;pandas&#39; from &#39;/opt/conda/envs/fastai/lib/python3.8/site-packages/pandas/__init__.py&#39;&gt; .",
+            "url": "https://jimmywang92.github.io/fastai_blog/jupyter/2021/01/29/avatarify.html",
+            "relUrl": "/jupyter/2021/01/29/avatarify.html",
+            "date": " • Jan 29, 2021"
         }
         
     
